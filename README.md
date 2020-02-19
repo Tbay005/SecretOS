@@ -1,5 +1,7 @@
 # SecretOS
 I am working open source apps that help people stay anonymous. I am working with a small group of developers. Thank you for all your support!
+Feb, 19, 2020: IMPORTANT: High
+Detectivefile has been scrached due to problems. Please have patients and wait. 
 
 Feb, 2, 2020: IMPORTANT: Medium
 DetectiveFile will be released on Valintines day on Feb, 14, 2020. On Feb, 8, 2020 DetecitiveFile ALPHA will be realsed and DETCTIVEFILE is going to follow.
